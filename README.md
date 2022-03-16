@@ -9,3 +9,5 @@ TODO: add more themes.
 Code: MIT
 
 Assets: CC0
+
+Icons: CC0 (https://www.kenney.nl/assets/game-icons)
