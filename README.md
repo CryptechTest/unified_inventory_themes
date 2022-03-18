@@ -6,8 +6,8 @@ TODO: add more themes.
 
 ## License
 
-Code: MIT
+Code: MIT (by threehymns and wsor)
 
-Assets: CC0
+Assets: CC0 (threehymns)
 
-Icons: CC0 (https://www.kenney.nl/assets/game-icons)
+Icons: CC0 (mostly from https://www.kenney.nl/assets/game-icons)
