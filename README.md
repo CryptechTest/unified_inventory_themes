@@ -2,7 +2,7 @@
 
 This minetest mod adds a modern theme to the unified_inventory mod.
 
-TODO: add more themes.
+TODO: Allow custom RGB themes via. Minetest settings.
 
 ## License
 
